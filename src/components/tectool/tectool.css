@@ -1,0 +1,110 @@
+#tec{
+
+  text-align: center;
+  background-color: white;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-top: 150px;
+
+}
+
+#btn-tectool .btn{
+
+  margin-right: 30px;
+  border-radius: 20px;
+
+}
+
+#i_html{
+
+width: 60px;
+height: 60px;
+
+}
+
+#i_css{
+
+width: 43px;
+height: 60px;
+
+}
+
+#i_js{
+
+width: 60px;
+height: 65px;
+margin-top: 12px;
+
+}
+
+#i_pyt{
+
+width: 60px;
+height: 60px;
+margin-top: 18px;
+
+}
+
+#i_c{
+
+width: 50px;
+height: 55px;
+margin-top: 10px;
+
+}
+
+#i_cpp{
+
+width: 50px;
+height: 53px;
+margin-top: 10px;
+
+}
+
+#i_reac{
+
+width: 60px;
+height: 60px;
+margin-top: 12px;
+
+}
+
+#i_vscod{
+
+width: 56px;
+height: 55px;
+margin-top: 12px;
+
+}
+
+#i_vs{
+
+width: 100px;
+height: 60px;
+margin-top: 12px;
+
+}
+
+#i_gt{
+
+width: 60px;
+height: 60px;
+margin-top: 12px;
+
+}
+
+#i_gh{
+
+width: 60px;
+height: 60px;
+margin-top: 12px;
+
+}
+
+#i_fig{
+
+width: 48px;
+height: 60px;
+margin-top: 12px;
+
+}
