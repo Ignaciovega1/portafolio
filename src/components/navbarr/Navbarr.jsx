@@ -29,7 +29,7 @@ return (
           <a class="nav-link" href="#tec">Tecnologias</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="#contact">Contacto</a>
+          <a class="nav-link" href="#contact">Contactos</a>
         </li>
       </ul>
     </div>
