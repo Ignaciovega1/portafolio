@@ -10,7 +10,7 @@ const Contact = () => {
             <div className="container">
                 <div className="row">
                     <h1>Contacto</h1>
-                    <div class="btn-group" role="group" aria-label="Basic example" id="btn-con">
+                    <div className="btn-col" id="btn-con">
                         <a href="https://www.linkedin.com/in/ignacio-vega-7b4226301" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
                             <img src="https://img.icons8.com/color/512/linkedin.png" alt="LinkedIn-boton" id="i_link"/>
                             <br />

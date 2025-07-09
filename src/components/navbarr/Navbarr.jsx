@@ -18,7 +18,7 @@ return (
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav offset-8">
+      <ul class="navbar-nav" id="navres">
         <li class="nav-item mr-4">
           <a class="nav-link" href="#abme">Sobre mí</a>
         </li>
@@ -43,3 +43,5 @@ return (
 }
 
 export default Navbarr
+
+
