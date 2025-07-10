@@ -1,5 +1,6 @@
 import React from "react";
 import "./abme.css";
+import Fotoportafolio from '../img/Fotoportafolio.jpg';
 
 const Abme = () => {
 
@@ -13,7 +14,7 @@ const Abme = () => {
           <div className="col-6">
             <br />
             <br />
-            <img src="https://www.giantbomb.com/a/uploads/scale_small/1/16944/2976271-flat%2C800x800%2C075%2Cf.jpg" class="card-img-top" alt="..." id="ab-img"></img>
+            <img src={Fotoportafolio} class="card-img-top" alt="..." id="ab-img"></img>
           </div>
 
           <div className="col-6">
