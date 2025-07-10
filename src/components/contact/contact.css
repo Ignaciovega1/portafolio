@@ -18,8 +18,8 @@
 
 #i_link{
 
-width: 50px;
-height: 50px;
+width: 40px;
+height: 40px;
 margin-right: 300px;
 
 }
@@ -35,8 +35,8 @@ margin-right: 300px;
 
 #i_hml{
 
-width: 60px;
-height: 35px;
+width: 40px;
+height: 40px;
 margin-right: 300px;
 
 
@@ -50,5 +50,7 @@ margin-right: 300px;
   flex-direction: column;
   align-items: center;
   gap: 30px; /* espacio entre los botones */
+  margin-left: 17px;
+  margin-top: 30px;
 }
 }
