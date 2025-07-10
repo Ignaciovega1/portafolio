@@ -25,3 +25,20 @@ margin-bottom: 30px;
 
 
 }
+
+@media (max-width: 750px) {
+  .carousel-item .jumbotron {
+    width: 75%;
+    padding: 20px;
+    font-size: 14px; /* opcional: reduce el texto */
+  }
+
+  .carousel-item h2,
+  .carousel-item h4 {
+    font-size: 16px; /* ajusta títulos */
+  }
+
+  .carousel-item ul {
+    padding-left: 20px;
+  }
+}
