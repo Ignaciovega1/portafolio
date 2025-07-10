@@ -9,7 +9,7 @@ const Abme = () => {
     <div id="abme">
       <br />
       <h1>Sobre mí</h1>
-      <div className="container-fluid">
+      <div className="container-fluid" id="cont-mov">
         <div className="row">
           <div className="col-6">
             <br />
