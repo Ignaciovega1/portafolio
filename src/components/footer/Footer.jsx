@@ -6,8 +6,8 @@ const Footer = () => {
 
 return(
 
-<footer className="bg-dark text-light py-4 mt-auto">
-      <div className="container">
+<footer className="bg-dark text-light py-4 ">
+      <div className="container-fluid">
         <div className="row">
           <div className="col md-6">
             <h5>Ignacio Vega</h5>
