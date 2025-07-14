@@ -26,6 +26,7 @@ background-color: white;
 
   #abme .col-6 {
     width: 100%;
+    min-width: 222px;
   }
 
   #ab-img {
@@ -41,6 +42,36 @@ background-color: white;
 
 height: 500px;
 border-radius: 60%;
+
+}
+
+#abme p,
+  #abme .lead {
+    font-size: 14px;
+  }
+
+  #abme h1 {
+    font-size: 24px;
+  }
+
+  #abme .display-4 {
+    font-size: 20px;
+  }
+
+  #abme .jumbotron {
+    padding: 20px;
+    font-size: 14px;
+  }
+
+  #abme .btn-lg {
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+
+  #abme {
+
+padding: 0px 0px;
+padding-top: 100px;
 
 }
 
