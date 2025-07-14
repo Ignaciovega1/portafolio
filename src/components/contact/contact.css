@@ -54,3 +54,13 @@ margin-right: 300px;
   margin-top: 30px;
 }
 }
+
+@media (max-width: 575px) {
+
+  #btn-con .btn{
+
+  min-width: 10%;
+
+  }
+
+}
