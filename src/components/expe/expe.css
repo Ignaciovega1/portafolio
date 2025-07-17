@@ -10,14 +10,14 @@
   filter: invert(100%);
 }
 
-#tiexp{
+#tiexp {
 
-text-align: center;
-margin-bottom: 30px;
+  text-align: center;
+  margin-bottom: 30px;
 
 }
 
-#expe{
+#expe {
 
   max-width: 1400px;
   background-color: white;
@@ -30,12 +30,14 @@ margin-bottom: 30px;
   .carousel-item .jumbotron {
     width: 75%;
     padding: 20px;
-    font-size: 14px; /* opcional: reduce el texto */
+    font-size: 14px;
+    /* opcional: reduce el texto */
   }
 
   .carousel-item h2,
   .carousel-item h4 {
-    font-size: 16px; /* ajusta títulos */
+    font-size: 16px;
+    /* ajusta títulos */
   }
 
   .carousel-item ul {

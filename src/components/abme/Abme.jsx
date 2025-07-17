@@ -25,7 +25,7 @@ const Abme = () => {
             <br />
             <br />
             <p class="text ">Soy Ingeniero en Informática, egresado de la Universidad Tecnológica Metropolitana (UTEM), con experiencia en el desarrollo de proyectos en áreas de Front-end, Back-end y Análisis de Datos. Me encuentro abierto a trabajar con diversas tecnologías, siempre con la motivación de aportar soluciones innovadoras y efectivas, así como continuar creciendo profesionalmente.
-                <br /><br />Me caracterizo por ser una persona comprometida, orientada al cumplimiento de objetivos y a la construcción de un ambiente laboral positivo. Estoy constantemente en búsqueda de nuevos conocimientos, tanto en tecnologías emergentes como en lenguajes de programación, con el objetivo de perfeccionar mis habilidades y contribuir significativamente en cada proyecto en el que participo.</p>
+              <br /><br />Me caracterizo por ser una persona comprometida, orientada al cumplimiento de objetivos y a la construcción de un ambiente laboral positivo. Estoy constantemente en búsqueda de nuevos conocimientos, tanto en tecnologías emergentes como en lenguajes de programación, con el objetivo de perfeccionar mis habilidades y contribuir significativamente en cada proyecto en el que participo.</p>
             <br />
             <br />
             <div class="jumbotron">

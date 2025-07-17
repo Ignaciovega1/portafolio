@@ -9,7 +9,7 @@ const Expe = () => {
   return (
 
     <div id="expe" className="container">
-       <h1 id="tiexp">Experiencias</h1>
+      <h1 id="tiexp">Experiencias</h1>
       <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
           <div class="carousel-item active">

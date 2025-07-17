@@ -4,9 +4,9 @@ import "./footer.css";
 const Footer = () => {
 
 
-return(
+  return (
 
-<footer className="bg-dark text-light py-4 ">
+    <footer className="bg-dark text-light py-4 ">
       <div className="container-fluid">
         <div className="row">
           <div className="col md-6">
@@ -22,7 +22,7 @@ return(
       </div>
     </footer>
 
-)
+  )
 
 
 }

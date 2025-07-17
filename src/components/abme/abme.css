@@ -1,19 +1,19 @@
-#ab-img{
+#ab-img {
 
-height: 700px;
-margin-top: 100px;
-border-radius: 60%;
+  height: 700px;
+  margin-top: 100px;
+  border-radius: 60%;
 
 }
 
 #abme {
 
-text-align: center;
-max-width: 1400px;
-margin: 0 auto;
-padding: 0px 100px;
-padding-top: 100px;
-background-color: white;
+  text-align: center;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0px 100px;
+  padding-top: 100px;
+  background-color: white;
 
 }
 
@@ -38,14 +38,14 @@ background-color: white;
 }
 
 @media (max-width: 750px) {
-   #ab-img{
+  #ab-img {
 
-height: 500px;
-border-radius: 60%;
+    height: 500px;
+    border-radius: 60%;
 
-}
+  }
 
-#abme p,
+  #abme p,
   #abme .lead {
     font-size: 14px;
   }
@@ -70,19 +70,18 @@ border-radius: 60%;
 
   #abme {
 
-padding: 0px 0px;
-padding-top: 100px;
+    padding: 0px 0px;
+    padding-top: 100px;
 
-}
+  }
 
 }
 
 @media (max-width: 600px) {
-   #ab-img{
+  #ab-img {
 
-height: 50%;
+    height: 50%;
+
+  }
 
 }
-
-}
-
