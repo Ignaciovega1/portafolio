@@ -17,6 +17,12 @@
 
 }
 
+.btn{
+
+background-color: rgb(57, 185, 185);
+
+}
+
 @media (max-width: 990px) {
   #abme .row {
     display: flex;
