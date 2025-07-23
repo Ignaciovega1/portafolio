@@ -42,6 +42,15 @@
 
 }
 
+#box_correo{
+
+  background-color: rgb(57, 185, 185);
+  width: 300px;
+  margin: 0 auto;
+  border-radius: 20px;
+
+}
+
 
 
 @media (max-width: 1400px) {

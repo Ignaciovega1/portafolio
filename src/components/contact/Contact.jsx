@@ -23,13 +23,16 @@ const Contact = () => {
                             <h2>GitHub</h2>
                             <h5>@Ignaciovega1</h5>
                         </a>
-                        <a href="mailto:Ivegamac@gmail.com" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
-                            <img src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="hml-boton" id="i_hml" />
+                    </div>
+                    <br />
+                    <br />
+                    <p>O puedes contactarme mediante mi correo:</p>
+                    <container href="" target="" rel="" class="box-correo text-light" id="box_correo">
+                            <img src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="hml-box" id="i_hml" />
                             <br />
                             <h2>Correo</h2>
                             <h5>Ivegamac@gmail.com</h5>
-                        </a>
-                    </div>
+                        </container>
                 </div>
             </div>
 

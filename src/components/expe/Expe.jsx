@@ -15,7 +15,7 @@ const Expe = () => {
           <div class="carousel-item active">
             <div class="jumbotron">
               <h2 class="justify-content-around">UTEM Proyecto de título Página Web PMCUIC</h2>
-              <h4>Fullstack - 01-08-2024 - 21-03-2025</h4>
+              <h4>Fullstack : Agosto 2024 - Marzo 2025</h4>
               <br />
               <ul>
                 <li>Con mi equipo de trabajo elaboramos un sitio web para el proceso de malla curricular de la unidad de
@@ -34,7 +34,7 @@ const Expe = () => {
           <div class="carousel-item">
             <div class="jumbotron">
               <h2 class="justify-content-around">Fundación Nuestros Hijos Práctica Profesional</h2>
-              <h4>Analista de datos - 04-11-2024 - 10-01-2025 </h4>
+              <h4>Analista de datos : Noviembre 2024 - Enero 2025 </h4>
               <br />
               <ul>
                 <li>Analicé bases de datos provenientes de fuentes externas de la fundación para diseñar procedimientos ETL y
@@ -51,7 +51,7 @@ const Expe = () => {
           <div class="carousel-item">
             <div class="jumbotron">
               <h2 class="justify-content-around">UTEM Proyecto de asignatura</h2>
-              <h4>Desarrollador Web Front-end - 01-03-2023 - 01-07-2023</h4>
+              <h4>Desarrollador Web Front-end : Marzo 2023 - Julio 2023</h4>
               <br />
               <ul>
                 <li>Diseñe e implementé la interfaz de usuario para una página web de aerolíneas como parte de un proyecto académico guiado por un profesor de asignatura.</li>
