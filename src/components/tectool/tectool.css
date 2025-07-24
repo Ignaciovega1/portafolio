@@ -20,53 +20,45 @@
   min-width: 30px;
   border-radius: 20px;
 
-
-
 }
 
 #i_html {
 
+width: 60px;
+height: 60px;
+
+}
+
+#i_css{
+
+width: 44px;
+height: 63px;
+
+}
+
+#i_js{
+
+  width: 60px;
+  height: 70px;
+
+}
+
+#i_pyt{
+
   width: 60px;
   height: 60px;
 
 }
 
-#i_css {
-
-  width: 43px;
-  height: 60px;
-
-}
-
-#i_js {
+#i_c{
 
   width: 60px;
-  height: 65px;
-  margin-top: 12px;
 
 }
 
-#i_pyt {
+#i_cpp{
 
   width: 60px;
-  height: 60px;
-  margin-top: 18px;
-
-}
-
-#i_c {
-
-  width: 50px;
-  height: 55px;
-  margin-top: 10px;
-
-}
-
-#i_cpp {
-
-  width: 50px;
-  height: 53px;
-  margin-top: 10px;
 
 }
 
@@ -116,6 +108,62 @@
   height: 60px;
   margin-top: 12px;
 
+}
+
+.lenguajes{
+
+  display: flex;
+  flex-direction: row;
+
+}
+
+.frameworks{
+
+  display: flex;
+  flex-direction: row;
+
+}
+
+.ides{
+
+  display: flex;
+  flex-direction: row;
+
+}
+
+.otros{
+
+  display: flex;
+  flex-direction: row;
+
+}
+
+.iconos-categorias {
+  display: flex;
+  flex-wrap: nowrap; /* evita que bajen de línea */
+  justify-content: center;
+  gap: 40px; /* espacio entre íconos */
+  overflow-x: auto; /* opcional para scroll horizontal si hay muchos íconos */
+  padding: 20px 0;
+}
+
+.icon-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 80px; /* asegura ancho mínimo */
+}
+
+.icon-wrapper img {
+  width: 60px;
+  height: auto;
+  margin-bottom: 6px;
+}
+
+.icon-wrapper p {
+  margin: 0;
+  font-size: 14px;
+  color: #333;
 }
 
 @media (max-width: 576px) {
