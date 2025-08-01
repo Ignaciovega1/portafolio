@@ -17,7 +17,7 @@ const Tectool = () => {
               Lenguajes
             </button>
             <button onClick={() => setActiveCategory("frameworks")} className="btn btn-primary">
-              Frameworks
+              Frameworks y librerías
             </button>
             <button onClick={() => setActiveCategory("ides")} className="btn btn-primary">
               IDEs
