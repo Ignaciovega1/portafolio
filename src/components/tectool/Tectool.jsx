@@ -20,7 +20,7 @@ const Tectool = () => {
               Frameworks y librerías
             </button>
             <button onClick={() => setActiveCategory("ides")} className="btn btn-primary">
-              IDEs
+              IDEs y DB
             </button>
             <button onClick={() => setActiveCategory("otros")} className="btn btn-primary">
               Otros
@@ -55,6 +55,22 @@ const Tectool = () => {
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" id="i_cpp" />
                 <p>C++</p>
                 </div>
+                <div className="icon-wrapper">
+                <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" id="i_cpp" />
+                <p>Java</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://img.icons8.com/?size=512&id=55251&format=png" alt="C#" id="i_cpp" />
+                <p>C#</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" id="i_cpp" />
+                <p>PHP</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="Ts" id="i_cpp" />
+                <p>TypeScript</p>
+                </div>
               </div>
             )}
 
@@ -63,6 +79,30 @@ const Tectool = () => {
                 <div className="icon-wrapper">
                 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" id="i_reac" />
                 <p>React</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" id="i_reac" />
+                <p>Bootstrap</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite" id="i_reac" />
+                <p>Vite</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-226066.png?f=webp" alt="Angular" id="i_reac" />
+                <p>Angular</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" id="i_reac" />
+                <p>Laravel</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-10-1175155.png" alt="Jquery" id="i_reac" />
+                <p>Jquery</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Nodejs" id="i_reac" />
+                <p>Node.js</p>
                 </div>
                 {/* Agrega más si los tienes */}
               </div>
@@ -77,6 +117,14 @@ const Tectool = () => {
                 <div className="icon-wrapper">
                 <img src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="VS" id="i_vs" />
                 <p>Visual Studio</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="Sqlserver" id="i_vs" />
+                <p>SQL Server</p>
+                </div>
+                <div className="icon-wrapper">
+                <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="Mysql" id="i_vs" />
+                <p>My SQL</p>
                 </div>
               </div>
             )}
